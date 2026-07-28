@@ -4,7 +4,7 @@ Realização dos Modulos do curso e das implementações realizadas.
 Acessar os arquivos das atividades na pasta: **Files**
 
 # Modulo 1
-![Fluxograma Sinuca](folder/Modulo1/fluxograma-sinuca.png)
+![Fluxograma Sinuca](Folder/Modulo1/fluxograma-sinuca.png)
 
 # Modulo 2
 # Modulo 3
