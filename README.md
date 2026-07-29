@@ -29,10 +29,10 @@ realização de um script que controla a posição da câmera e do taco e aplica
 
 modelagem básica de uma mesa de sinuca.
 
-Acesse o script: [modulo1_Script.cs](Folder/Modulo2/modulo1_Script.cs)
+Acesse o script: [TacoScript.cs](Folder/Modulo3/TacoScript.cs)
 
 
-![Fluxograma Sinuca](Folder/Modulo2/Modulo2_imagem.png)
+![sinuca movimento bola branca](Folder/Modulo3/GIF_modulo3.gif)
 
 
 # Modulo 4
