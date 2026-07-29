@@ -23,6 +23,18 @@ Acesse o script: [modulo1_Script.cs](Folder/Modulo2/modulo1_Script.cs)
 ![Fluxograma Sinuca](Folder/Modulo2/Modulo2_imagem.png)
 
 # Modulo 3
+Atividade Baseada no Conteúdo do Modulo3.
+
+realização de um script que controla a posição da câmera e do taco e aplica uma força na bola branca, todos feito por função alem da aplicação base de Inputs.
+
+modelagem básica de uma mesa de sinuca.
+
+Acesse o script: [modulo1_Script.cs](Folder/Modulo2/modulo1_Script.cs)
+
+
+![Fluxograma Sinuca](Folder/Modulo2/Modulo2_imagem.png)
+
+
 # Modulo 4
 # Modulo 5
 # Modulo 6
