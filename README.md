@@ -37,16 +37,16 @@ Acesse o script: [TacoScript.cs](Folder/Modulo3/TacoScript.cs)
 
 # Modulo 4
 
-Atividade Baseada no Conteúdo do Modulo3.
+Atividade Baseada no Conteúdo do Modulo4.
 
-realização de um script que controla a posição da câmera e do taco e aplica uma força na bola branca, todos feito por função alem da aplicação base de Inputs.
+Continuação do Script do modulo passado porem com a adição de Loops, Destroy e Instantiate, para o reposicionamento do jogo e criação de efeitos especiais, além de um caso a parte do uso de Dictionary.
 
-modelagem básica de uma mesa de sinuca.
+Implementação de uma nova câmera no cenário.
 
-Acesse o script: [TacoScript.cs](Folder/Modulo3/TacoScript.cs)
+Acesse o script: [TacoScript.cs](Folder/Modulo4/TacoScript.cs)
 
 
-![sinuca movimento bola branca](Folder/Modulo3/GIF_modulo3.gif)
+![sinuca movimento bola branca](Folder/Modulo3/Modulo4.gif)
 
 # Modulo 5
 # Modulo 6
