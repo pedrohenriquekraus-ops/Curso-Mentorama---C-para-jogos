@@ -49,6 +49,17 @@ Acesse o script: [TacoScript.cs](Folder/Modulo4/TacoScript.cs)
 ![sinuca movimento bola branca](Folder/Modulo4/Modulo4.gif)
 
 # Modulo 5
+
+Atividade Baseada no Conteúdo do Modulo4.
+
+Continuação do Script do modulo passado porem com a adição de Loops, Destroy e Instantiate, para o reposicionamento do jogo e criação de efeitos especiais, além de um caso a parte do uso de Dictionary.
+
+Implementação de uma nova câmera no cenário.
+
+Acesse o script: [TacoScript.cs](Folder/Modulo5/TacoScript.cs)
+
+
+![sinuca movimento bola branca](Folder/Modulo5/Modulo4.gif)
 # Modulo 6
 # Modulo 7
 # Modulo 8
