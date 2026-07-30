@@ -36,6 +36,18 @@ Acesse o script: [TacoScript.cs](Folder/Modulo3/TacoScript.cs)
 
 
 # Modulo 4
+
+Atividade Baseada no Conteúdo do Modulo3.
+
+realização de um script que controla a posição da câmera e do taco e aplica uma força na bola branca, todos feito por função alem da aplicação base de Inputs.
+
+modelagem básica de uma mesa de sinuca.
+
+Acesse o script: [TacoScript.cs](Folder/Modulo3/TacoScript.cs)
+
+
+![sinuca movimento bola branca](Folder/Modulo3/GIF_modulo3.gif)
+
 # Modulo 5
 # Modulo 6
 # Modulo 7
