@@ -50,7 +50,7 @@ Acesse o script: [TacoScript.cs](Folder/Modulo4/TacoScript.cs)
 
 # Modulo 5
 
-Atividade Baseada no Conteúdo do Modulo4.
+Atividade Baseada no Conteúdo do Modulo5.
 
 Continuação do Script do modulo passado porem com a adição de Loops, Destroy e Instantiate, para o reposicionamento do jogo e criação de efeitos especiais, além de um caso a parte do uso de Dictionary.
 
@@ -62,6 +62,13 @@ Acesse o script: [TacoScript.cs](Folder/Modulo5/List_Array.cs)
 ![sinuca movimento bola branca](Folder/Modulo5/Funcoes_List_Array_Modulo5.png)
 ![sinuca movimento bola branca](Folder/Modulo5/List_Array_Modulo5.png)
 # Modulo 6
+Atividade Baseada no Contéudo do Modulo6
+
+Continuação do Script do modulo passado porem agora o codigo foi modificado e adaptado para funcionar utilizando Enum e Struct para sua estrutura, onde o Enum atualmente controla o estada da camea e a Struct controla e armazena todas as informações imutaveis do jogo.
+
+
+![sinuca movimento bola branca](Folder/Modulo6/Enum.png)
+![sinuca movimento bola branca](Folder/Modulo6/Struct.png)
 # Modulo 7
 # Modulo 8
 # Modulo 9
