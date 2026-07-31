@@ -59,7 +59,7 @@ Implementação de uma nova câmera no cenário.
 Acesse o script: [TacoScript.cs](Folder/Modulo5/List_Array.cs)
 
 
-![sinuca movimento bola branca](Folder/Modulo5/Funcoes_List_array5.png)
+![sinuca movimento bola branca](Folder/Modulo5/Funcoes_List_Array_Modulo5.png)
 ![sinuca movimento bola branca](Folder/Modulo5/List_Array_Modulo5.png)
 # Modulo 6
 # Modulo 7
