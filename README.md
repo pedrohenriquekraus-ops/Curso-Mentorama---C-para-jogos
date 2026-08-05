@@ -69,8 +69,8 @@ Continuação do Script do modulo passado porem agora o codigo foi modificado e 
 
 | Enum | Struct|
 |---|---|---|
-| ![Enum](Folder/Modulo6/Enum.png)
-| ![Enum](Folder/Modulo6/Struct.png)
+ ![Enum](Folder/Modulo6/Enum.png)
+ ![Enum](Folder/Modulo6/Struct.png)
 
 # Modulo 7
 # Modulo 8
