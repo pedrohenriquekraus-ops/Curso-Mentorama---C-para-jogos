@@ -79,6 +79,8 @@ Continuação do Script e implementação de 1 classe chamada Equipe na qual fic
 |---|---|---|
  ![Classe Equipe](Folder/Modulo7/Classe_equipe.png) | ![Utilização da classe](Folder/Modulo7/Usando_classe.png)| ![funcoes_equipe](Folder/Modulo7/funcoes_equipe.png)|
 
+  Acesse o script Equipe: [Equipe.cs](Folder/Modulo8/Equipe.cs)
+
 
 # Modulo 8
 Atividade Baseada no Contéudo do Modulo8
@@ -93,7 +95,7 @@ Continuação do Script e implementação de 3 classes
 
 | Duplas | Solo|Participante|
 |---|---|---|
- ![Enum](Folder/Modulo8/DuplasM8.png) | ![Enum](Folder/Modulo8/Solom8.png)| ![Enum](Folder/Modulo8/ParticipanteM8.png)|
+ ![Enum](Folder/Modulo8/DuplasM8.png) | ![Enum](Folder/Modulo8/SoloM8.png)| ![Enum](Folder/Modulo8/ParticipanteM8.png)|
 
  Acesse o script Participantes: [Solo.cs](Folder/Modulo8/Participante.cs)
  Acesse o script Solo: [Solo.cs](Folder/Modulo8/Solo.cs)
