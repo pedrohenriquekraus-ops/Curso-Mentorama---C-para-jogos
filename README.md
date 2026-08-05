@@ -65,15 +65,35 @@ Acesse o script: [TacoScript.cs](Folder/Modulo5/List_Array.cs)
 # Modulo 6
 Atividade Baseada no Contéudo do Modulo6
 
-Continuação do Script do modulo passado porem agora o codigo foi modificado e adaptado para funcionar utilizando Enum e Struct para sua estrutura, onde o Enum atualmente controla o estada da camea e a Struct controla e armazena todas as informações imutaveis do jogo.
+Continuação do Script do modulo passado porem agora o codigo foi modificado e adaptado para funcionar utilizando Enum e Struct para sua estrutura, onde o Enum atualmente controla o estado da camera e a Struct controla e armazena todas as informações imutaveis do jogo.
 
-| Enum | Struct|
-|---|---|
- ![Enum](Folder/Modulo6/Enum.png) | ![Enum](Folder/Modulo6/Struct.png)|
- 
-
+| Enum | Struct|Troca de camera|
+|---|---|---|
+ ![Enum](Folder/Modulo6/Enum.png) | ![Struct](Folder/Modulo6/Struct.png)| ![Troca de camera](Folder/Modulo6/Sinuca-reset.gif)|
 # Modulo 7
+Atividade Baseada no Contéudo do Modulo7
+
+Continuação do Script e implementação de 1 classe chamada Equipe na qual fica responsavel de gerenciar as informações das equipes participantes da rodada como por exemplo, turnos, vez do jogador, pontos
+
+  |Classe Equipe| Utilização da classe|funcoes_equipe|
+|---|---|---|
+ ![Classe Equipe](Folder/Modulo7/Classe_equipe.png) | ![Utilização da classe](Folder/Modulo7/Usando_classe.png)| ![funcoes_equipe](Folder/Modulo7/funcoes_equipe.png)|
+
+
 # Modulo 8
+Atividade Baseada no Contéudo do Modulo8
+
+Continuação do Script e implementação de 3 classes
+
+- Participante : Classe abstrata generica para a criação e herança de outras classes
+  
+- Solo : Classe que herda de Participante e sobscreve metodos genericos para o caso de jogador solo
+  
+- Dupla : Classe que herda de Participante e sobscreve metodos genericos para o caso de jogadores em dupla, contem informações extras para gerenciamento de turno
+
+  | Enum | Struct|Troca de camera|
+|---|---|---|
+ ![Enum](Folder/Modulo6/Enum.png) | ![Enum](Folder/Modulo6/Struct.png)| ![Enum](Folder/Modulo6/Sinuca-reset.gif)|
 # Modulo 9
 # Modulo 10
 # Modulo 11
