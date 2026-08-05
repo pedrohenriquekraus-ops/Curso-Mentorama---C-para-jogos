@@ -68,9 +68,9 @@ Atividade Baseada no Contéudo do Modulo6
 Continuação do Script do modulo passado porem agora o codigo foi modificado e adaptado para funcionar utilizando Enum e Struct para sua estrutura, onde o Enum atualmente controla o estada da camea e a Struct controla e armazena todas as informações imutaveis do jogo.
 
 | Enum | Struct|
-|---|---|---|
- ![Enum](Folder/Modulo6/Enum.png)
- ![Enum](Folder/Modulo6/Struct.png)
+|---|---|
+ ![Enum](Folder/Modulo6/Enum.png) | ![Enum](Folder/Modulo6/Struct.png)|
+ 
 
 # Modulo 7
 # Modulo 8
