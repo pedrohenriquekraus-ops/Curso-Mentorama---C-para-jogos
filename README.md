@@ -75,7 +75,7 @@ Atividade Baseada no Contéudo do Modulo7
 
 Continuação do Script e implementação de 1 classe chamada Equipe na qual fica responsavel de gerenciar as informações das equipes participantes da rodada como por exemplo, turnos, vez do jogador, pontos
 
-  |Classe Equipe| Utilização da classe|funcoes_equipe|
+|Classe Equipe| Utilização da classe|funcoes_equipe|
 |---|---|---|
  ![Classe Equipe](Folder/Modulo7/Classe_equipe.png) | ![Utilização da classe](Folder/Modulo7/Usando_classe.png)| ![funcoes_equipe](Folder/Modulo7/funcoes_equipe.png)|
 
@@ -91,9 +91,13 @@ Continuação do Script e implementação de 3 classes
   
 - Dupla : Classe que herda de Participante e sobscreve metodos genericos para o caso de jogadores em dupla, contem informações extras para gerenciamento de turno
 
-  | Enum | Struct|Troca de camera|
+| Duplas | Solo|Participante|
 |---|---|---|
- ![Enum](Folder/Modulo6/Enum.png) | ![Enum](Folder/Modulo6/Struct.png)| ![Enum](Folder/Modulo6/Sinuca-reset.gif)|
+ ![Enum](Folder/Modulo8/DuplasM8.png) | ![Enum](Folder/Modulo8/Solom8.png)| ![Enum](Folder/Modulo8/ParticipanteM8.png)|
+
+ Acesse o script Participantes: [Solo.cs](Folder/Modulo8/Participante.cs)
+ Acesse o script Solo: [Solo.cs](Folder/Modulo8/Solo.cs)
+ Acesse o script Dupla: [Solo.cs](Folder/Modulo8/Dupla.cs)
 # Modulo 9
 # Modulo 10
 # Modulo 11
