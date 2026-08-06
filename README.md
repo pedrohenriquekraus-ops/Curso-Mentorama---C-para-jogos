@@ -107,7 +107,7 @@ Criação de metodos eventos e Delegates para comunicação com telas e interaç
 
 | InvokeM9 | TelaView| Tela_mudandoM9 |
 |---|---|---|
- ![InvokeM9](Folder/Modulo9/InvokeM9.png) | ![TelaView](Folder/Modulo9/TelaView.png)| ![TelaView](Folder/Modulo9/Tela_mudandoM9.png)|
+ ![InvokeM9](Folder/Modulo9/InvokeM9.png) | ![TelaView](Folder/Modulo9/TelaView.png)| ![TelaView](Folder/Modulo9/Tela_mudandoM9.gif)|
 
  Acesse o script Participantes: [TelaView.cs](Folder/Modulo9/TelaView.cs)
 
