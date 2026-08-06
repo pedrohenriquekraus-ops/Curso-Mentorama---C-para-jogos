@@ -105,9 +105,9 @@ Atividade baseada do Conteudo do modulo9
 
 Criação de metodos eventos e Delegates para comunicação com telas e interações diversas.
 
-| InvokeM9 | TelaView|
-|---|---|
- ![InvokeM9](Folder/Modulo9/InvokeM9.png) | ![TelaView](Folder/Modulo9/TelaView.png)| 
+| InvokeM9 | TelaView| Tela_mudandoM9 |
+|---|---|---|
+ ![InvokeM9](Folder/Modulo9/InvokeM9.png) | ![TelaView](Folder/Modulo9/TelaView.png)| ![TelaView](Folder/Modulo9/Tela_mudandoM9.png)|
 
  Acesse o script Participantes: [TelaView.cs](Folder/Modulo9/TelaView.cs)
 
