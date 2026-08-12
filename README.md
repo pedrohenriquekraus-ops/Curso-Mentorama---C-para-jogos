@@ -112,8 +112,24 @@ Criação de metodos eventos e Delegates para comunicação com telas e interaç
  Acesse o script Participantes: [TelaView.cs](Folder/Modulo9/TelaView.cs)
 
 # Modulo 10
+Atividades baseada no Conteudo do modulo10
+
+Conteudo principal da Unity abordado como, raycast, colliders,Physics, Trigger
+
+| OnCollision | Physics_Material|
+|---|---|
+ ![OnCollision](Folder/Modulo10/OncollisionEnterM10.png) | ![Physics_Material](Folder/Modulo10/Physics_MaterialM10.png)|
 # Modulo 11
 # Modulo 12
+Atividade baseada no Conteudodo modulo12
+
+Criando o jogo do Pac-man completo e todas as logicas envolvidas.
+
+
+![Pacman](Folder/Modulo12/Gravando-2026-08-12-093009.gif)
+
+Acesse o script PacMan: [TelaView.cs](Folder/Modulo12)
+
 # Modulo 13
 # Modulo 14
 # Modulo 15
